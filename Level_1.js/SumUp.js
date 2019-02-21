@@ -1,5 +1,5 @@
-const SumUp = (okon, akpos) => {
-const here = okon + akpos;
-return here; 
+const SumUp = (numbers) => {
+    const here = (1 + 2 + 3 + 4);
+    return here;
 }
-console.log(SumUp (5, 15));
+console.log(SumUp());
